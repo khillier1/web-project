@@ -1,3 +1,6 @@
-h1{
-  color: blue;
+.navbar {
+  max-height:50px;
 }
+ .jumbotron {
+   margin-top:50px;
+ }
