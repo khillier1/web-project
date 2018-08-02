@@ -2,5 +2,17 @@
   max-height:50px;
 }
  .jumbotron {
+   background-image:url("../img/image14.jpg");
+   background-repeat:no-repeat;
+   color:white;
    margin-top:50px;
+   padding-left: 17px;
+   height: 300px;
  }
+
+.center {
+  display: block;
+  margin-left:auto;
+  margin-right:auto;
+  width:50%;
+}
