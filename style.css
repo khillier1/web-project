@@ -114,3 +114,12 @@ a:link{
 body{
   background-color: white
 }
+.jumbotron-plastic{
+  background-image: url('img/image21.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white
+}
+.video-jumbotron{
+  background-color: #c7dbfc
+}
