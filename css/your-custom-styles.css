@@ -1,7 +1,7 @@
 .navbar {
   max-height:50px;
 }
- .jumbotron {
+ .jumbotron.page-two {
    background-image:url("../img/image14.jpg");
    background-repeat:no-repeat;
    color:white;
@@ -15,4 +15,16 @@
   margin-left:auto;
   margin-right:auto;
   width:50%;
+}
+
+.world-map {
+  height:300px;
+  width:300px;
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.click-image:hover {
+  cursor: pointer;
 }
