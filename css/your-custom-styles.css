@@ -62,3 +62,7 @@ font-family:'Ubuntu';
 .click-image:hover {
   cursor: pointer;
 }
+
+.mediapic{
+  border-radius:50%;
+}
