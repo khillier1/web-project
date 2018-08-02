@@ -98,3 +98,19 @@
     width: 200px;
     height: 150px;
 }
+
+.full-carousel {
+  width: 100%;
+}
+.video-container {
+  height: 500px
+}
+.first-slide{
+  color: white
+}
+a:link{
+  color:white
+}
+body{
+  background-color: white
+}
